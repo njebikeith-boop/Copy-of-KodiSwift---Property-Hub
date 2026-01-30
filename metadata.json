@@ -1,0 +1,8 @@
+{
+  "name": "Copy of KodiSwift - Property Hub",
+  "description": "A comprehensive rental management platform for Kenyan property agents featuring automated invoicing, M-Pesa reconciliation, and real-time performance analytics.",
+  "version": "1.0.1-sync-ref-2026",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
